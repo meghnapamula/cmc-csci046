@@ -1,5 +1,9 @@
 # CSCI046: Data Structures and Algorithms
 
+message for second section
+
+<!-- created on github -->
+
 [![](smbc.png)](https://www.smbc-comics.com/comic/hansel-and-gretel)
 
 ## About the Instructor
@@ -9,7 +13,7 @@
 | Name          | Mike Izbicki (call me Mike)   |
 | Email         | mizbicki@cmc.edu              |
 | Office        | Adams 216                     |
-| Office Hours  | TBA                           |
+| Office Hours  | See [Issue #416](https://github.com/mikeizbicki/cmc-csci046/issues/416) |
 | Zoom          | See [Issue #325](https://github.com/mikeizbicki/cmc-csci046/issues/325) |
 | Webpage       | [izbicki.me](https://izbicki.me) |
 | Research      | Machine Learning (see [izbicki.me/research.html](https://izbicki.me/research.html) for some past projects) |
@@ -53,7 +57,7 @@ See:
 
 **Learning Objectives:**
 
-1. Learn basic the basics of
+1. Learn the basics of
     1. linux terminal 
     1. git
     1. open source software
@@ -186,7 +190,7 @@ Violations of any of these policies will be treated as academic integrity violat
     The benefits of this model include:
     (1) you actually learn how to develop/contribute to open source projects;
     (2) future employers see you have github activity.
-    Please do not abuse this privillage.
+    Please do not abuse this privilege.
 
 ## Accommodations Policy
 
